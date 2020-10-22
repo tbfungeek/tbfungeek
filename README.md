@@ -1,4 +1,4 @@
-- ### Hi there 👋
+- ## Hi there 👋
 
 - 🔭 I Used to be a Android Developer and I am now a iOS developer,and have a little UI Design Skill
 - 🌱 I’m currently learning React Native & React & Taro
@@ -7,15 +7,15 @@
 - 👋 My Blog Site : http://tbfungeek.github.io/
 - 😄 I will Become a fullstack Developer! 23333 ^ V ^
 
-Most used link:
+- ### Most used link:
 
-* ### Backend FrameWork ###
+* #### Backend FrameWork
 
 - [Midway](https://midwayjs.org/midway/)
 - [Egg](https://eggjs.org/zh-cn/)
 - [Nest](https://nestjs.com/)
 
-* ### Front FrameWork ###
+* #### Front FrameWork 
 
 - [React Native](https://reactnative.cn/)
 - [React](https://zh-hans.reactjs.org/)
