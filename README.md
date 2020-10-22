@@ -7,13 +7,6 @@
 - 👋 My Blog Site : http://tbfungeek.github.io/
 - 😄 I will Become a fullstack Developer! 23333 ^ V ^
 
-<br/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tbfungeek&show_icons=true" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbfungeek&hide=html&count_private=true&show_icons=true" />
-
-
 Most used link:
 
 * [Backend FrameWork]
@@ -32,3 +25,12 @@ Most used link:
 - [Dva](https://dvajs.com/)
 - [Ant Design](https://ant.design/index-cn)
 - [Ant Design Mobile](https://mobile.ant.design/index-cn)
+
+<br/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tbfungeek&show_icons=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbfungeek&hide=html&count_private=true&show_icons=true" />
+
+
+
