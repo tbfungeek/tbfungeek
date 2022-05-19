@@ -2,7 +2,7 @@
 
 - 🔭 I Used to be a Android Developer and I am now a iOS developer,and have a little UI Design Skill
 - 😄 I will Become a Independence Developer! 23333 ^ V ^
-- 📫 How to reach me: Contract with me with Email: tbfungeek@163.com
+- 📫 Contract with me with Email: tbfungeek@163.com
 - 👋 My Blog Site : http://tbfungeek.github.io/
 
 - ##  My Apps
