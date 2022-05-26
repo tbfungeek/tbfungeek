@@ -5,7 +5,6 @@
 - 😄 I'm on my way to becoming an indie developer!  23333 ^ V ^
 
 - 😊 I desperately hope to be able to convey some of my ideas through the design and code in my app.
-     And bring happiness, healing, and something positive to the users who use them.
 
 - 📫 Contract with me with Email: tbfungeek@163.com
 
