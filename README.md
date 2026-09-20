@@ -22,6 +22,8 @@
   
 - [Pocketify](https://apps.apple.com/app/top-tags/id1589642043)
 
+- [Yommi](https://apps.apple.com/app/id6782721309)
+
 - [BeatMap](https://apps.apple.com/app/id6446179017)
 
 - [Baby Bear](https://apps.apple.com/app/id6744032303)
